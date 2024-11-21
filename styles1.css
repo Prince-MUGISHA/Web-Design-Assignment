@@ -69,8 +69,8 @@ header nav a {
 }
 
 .hero-image {
-  width: 0%;
-  height: 0px;
+  width: 80%;
+  float:right;
   background-color: #555;
   color: #ccc;
   display: flex;
